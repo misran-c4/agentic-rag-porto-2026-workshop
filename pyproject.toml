@@ -1,0 +1,14 @@
+[project]
+name = "agentic-rag-porto-2026-workshop"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "gitsource>=0.0.4",
+    "jupyter>=1.1.1",
+    "minsearch>=0.0.11",
+    "openai>=2.33.0",
+    "pydantic-ai>=1.89.1",
+    "toyaikit>=0.0.10",
+]
